@@ -1,4 +1,4 @@
-# JuilfsCompetition
+# Juilfs Competition
 Write a programming problem to submit to the ninth annual Juilfs programming competition.
 Must be solvable for 100-200 level CIS students
 
